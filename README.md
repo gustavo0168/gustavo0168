@@ -5,6 +5,6 @@ Meu nome é gustavo
   - Estou me desenvolvendo na linguagem JavaScript
   - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-###  voçê emtrar em contato comigo 📫
+###  voçê entrar em contato comigo 📫
 
 00001162674945sp@al.educacao.sp.gov.br
